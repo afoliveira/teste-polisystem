@@ -1,0 +1,22 @@
+{
+  "name": "teste-polisystem",
+  "version": "1.0.0",
+  "description": "Teste feito para a vaga de desenvolvedor Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afoliveira/teste-polisystem.git"
+  },
+  "author": "Afonso Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afoliveira/teste-polisystem/issues"
+  },
+  "homepage": "https://github.com/afoliveira/teste-polisystem#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
